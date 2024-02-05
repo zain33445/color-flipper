@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    height: 100vh;
+    display: flex;
+    background-color: #5c0404;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+.green{
+    background-color: rgb(6, 64, 6);
+}
+.btn{
+    font-size: 1.5rem;
+    width: 40vh;
+    padding: 1rem;
+    cursor: pointer;
+}
